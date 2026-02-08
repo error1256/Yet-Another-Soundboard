@@ -1,6 +1,5 @@
 '''
 TODO: add auto saving for auto_monitor
-Its 2:40 AM and I dont want to sleep
 '''
 import os
 import sys
